@@ -1,0 +1,9 @@
+{
+  "name": "Depression Predictor",
+  "short_name": "MoodPredictor",
+  "start_url": "/",
+  "display": "standalone",
+  "background_color": "#ffffff",
+  "theme_color": "#0ea5a4",
+  "icons": []
+}
